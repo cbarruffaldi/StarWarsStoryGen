@@ -24,6 +24,7 @@ To create a story you have to:
 - Optional: Select a Vehicle
 
 ### Future work
+- Check the selections are not the same character or Planet
 - Improve error handling
 - Error UX
 - Use input description to generate story
