@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
     <NavBar></NavBar>
-        <Form />
+    <Form />
     </div>
   )}
 
